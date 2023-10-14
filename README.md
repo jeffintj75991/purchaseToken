@@ -3,14 +3,14 @@ The dApp will consist of three primary sections: a smart contract suite, a backe
 
 Regarding smart contract <br/>
 compile smart contract <br/>
-truffle compile
-deploy smart contract- 
-truffle migrate --network sepolia
+truffle compile <br/>
+deploy smart contract <br/> 
+truffle migrate --network sepolia <br/>
 
-Run backend- 
-cd backend
-node backend.js
+Run backend <br/> 
+cd backend <br/>
+node backend.js <br/>
 
-Run frontend- 
-cd frontend
+Run frontend <br/>
+cd frontend <br/>
 npm start
