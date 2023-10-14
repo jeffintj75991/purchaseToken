@@ -6,11 +6,11 @@ compile smart contract <br/>
 truffle compile <br/>
 deploy smart contract <br/> 
 truffle migrate --network sepolia <br/>
-
+<br/>
 Run backend <br/> 
 cd backend <br/>
 node backend.js <br/>
-
+<br/>
 Run frontend <br/>
 cd frontend <br/>
 npm start
