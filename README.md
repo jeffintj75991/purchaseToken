@@ -1,17 +1,17 @@
  decentralized escrow application (dApp) that enables users to list their ERC721 tokens for sale. 
 The dApp will consist of three primary sections: a smart contract suite, a backend built with Node.js, and a frontend 
 
+Regarding smart contract
 
-//Regarding smart contract
-//compile smart contract
+compile smart contract- 
 truffle compile
-//deploy smart contract
+deploy smart contract- 
 truffle migrate --network sepolia
 
-//Run backend
+Run backend- 
 cd backend
 node backend.js
 
-//run frontend
+Run frontend- 
 cd frontend
 npm start
