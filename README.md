@@ -1,4 +1,4 @@
- decentralized escrow application (dApp) that enables users to list their ERC721 tokens for sale. 
+ decentralized escrow application (dApp) that enables users to list their ERC721 tokens for sale and purchase tokens. 
 The dApp will consist of three primary sections: a smart contract suite, a backend built with Node.js, and a frontend 
 
 Regarding smart contract <br/>
